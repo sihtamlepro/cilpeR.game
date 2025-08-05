@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Évite les barres de défilement */
+    background: black; /* Fond noir */
+}
+
+#matrix-canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
